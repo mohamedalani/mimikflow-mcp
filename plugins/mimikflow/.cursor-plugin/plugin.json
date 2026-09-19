@@ -1,0 +1,12 @@
+{
+  "name": "mimikflow",
+  "displayName": "MimikFlow",
+  "version": "1.0.0",
+  "description": "Supervise and steer your MimikFlow LinkedIn prospecting from Cursor.",
+  "author": {
+    "name": "DanMind SASU",
+    "email": "hello@mimikflow.com"
+  },
+  "license": "Proprietary",
+  "keywords": ["mcp", "sales", "linkedin", "prospecting", "outreach", "crm"]
+}

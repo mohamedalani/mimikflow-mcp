@@ -1,0 +1,11 @@
+{
+  "name": "mimikflow",
+  "version": "1.0.0",
+  "description": "Supervise and steer your MimikFlow LinkedIn prospecting from your AI assistant.",
+  "mcpServers": {
+    "mimikflow": {
+      "url": "https://mimikflow.com/api/mcp",
+      "type": "http"
+    }
+  }
+}

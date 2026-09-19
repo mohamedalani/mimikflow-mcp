@@ -1,0 +1,11 @@
+{
+  "name": "mimikflow",
+  "description": "Supervise and steer your MimikFlow LinkedIn prospecting from your AI assistant.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DanMind SASU",
+    "email": "hello@mimikflow.com"
+  },
+  "homepage": "https://mimikflow.com/fonctionnalites/mcp",
+  "license": "Proprietary"
+}

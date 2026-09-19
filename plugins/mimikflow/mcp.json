@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mimikflow": {
+      "url": "https://mimikflow.com/api/mcp"
+    }
+  }
+}
